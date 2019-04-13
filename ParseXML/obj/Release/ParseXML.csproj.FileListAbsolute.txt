@@ -1,0 +1,7 @@
+C:\Users\mac0348\Documents\ParseXML\ParseXML\bin\Release\ParseXML.exe.config
+C:\Users\mac0348\Documents\ParseXML\ParseXML\bin\Release\ParseXML.exe
+C:\Users\mac0348\Documents\ParseXML\ParseXML\bin\Release\ParseXML.pdb
+C:\Users\mac0348\Documents\ParseXML\ParseXML\obj\Release\ParseXML.csproj.CoreCompileInputs.cache
+C:\Users\mac0348\Documents\ParseXML\ParseXML\obj\Release\ParseXML.exe
+C:\Users\mac0348\Documents\ParseXML\ParseXML\obj\Release\ParseXML.pdb
+C:\Users\mac0348\Documents\ParseXML\ParseXML\obj\Release\ParseXML.csprojAssemblyReference.cache
